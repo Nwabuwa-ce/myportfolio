@@ -5,7 +5,7 @@ I just began putting together my portfolio to catch the eye of recruiters in the
 ## Basic Analysis of Twitter Stock
 I downloaded the Twitter stock market dataset in csv format, from Kaggle.com 
 I read the csv data into a pandas dataframe and set the "Date" column to become the index.
-[Set Date as Index](https://github.com/Nwabuwa-ce/myportfolio/blob/main/Images/Twitter%20Stock%20head().png)
+[Set Date as Index]
 
 
 
