@@ -14,4 +14,4 @@ I read the csv data into a pandas dataframe and set the "Date" column to become 
 
 ![image](https://github.com/Nwabuwa-ce/myportfolio/assets/99978799/461991b9-0003-489e-9b5f-2a6d6e83bfd5)
 
-<a href ="https://www.coursera.org/learn/open-source-tools-for-data-science/home/">View Project on GitHub</a> 
+<a href ="https://github.com/Nwabuwa-ce/twitterstock/blob/main/Twitter%20X%20Project.ipynb">View Project on GitHub</a> 
