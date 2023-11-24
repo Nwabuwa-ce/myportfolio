@@ -1,11 +1,11 @@
-# Introduction
+## Introduction
 Hi my name is Chukwudum Nwabuwa and I am a Data Scientist.
 I have acquired a couple of certifications in Data Science and Machine Learning
 and I look forward to putting my skills to good use in real work situations.
 I just began putting together my portfolio in a simple way 
 to catch the eye of recruiters in the field of data science/analysis
 
-## Basic Analysis of Twitter Stock
+# Basic Analysis of Twitter Stock
 
 I downloaded the Twitter stock market dataset in csv format, from Kaggle.com 
 I read the csv data into a pandas dataframe in a Jupyter Notebook,
