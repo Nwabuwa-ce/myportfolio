@@ -41,6 +41,14 @@ can be put in better perspective when you consider the economic and political
 circumstances surrounding the given periods. These "underlying causes" however,
 are beyond the scope of this project.
 
+
+
+# Canada Immigration Analysis
+This is an analysis of Canada's Immigration data between the years 1980 - 2013. The dataset was sourced 
+from the UN data repository.
+
+
+
 ### Appreciations
 
 Thank you for looking through my simple page! I hope to keep learning and upskilling,
