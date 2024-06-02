@@ -68,7 +68,7 @@ Lastly, you see the bar chart below of Nigerian immigrants to Canada within the 
 and how the numbers have spiked in the last few years of the time period.
 
 ### Nigerian immigrants to Canada (1980-2013)
-![image](https://github.com/Nwabuwa-ce/myportfolio/assets/99978799/093e9d36-4ef3-447b-80d7-bb4ce1bf2a0f)
+![image](https://github.com/Nwabuwa-ce/myportfolio/assets/99978799/66cc00bf-5cd4-4479-b2dd-addac1af6384)
 
 
 The immigration data to Canada within the years 1980 - 2013 shows that most countries had an upward trend in
