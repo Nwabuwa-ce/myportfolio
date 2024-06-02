@@ -45,8 +45,34 @@ are beyond the scope of this project.
 
 # Canada Immigration Analysis
 This is an analysis of Canada's Immigration data between the years 1980 - 2013. The dataset was sourced 
-from the UN data repository.
+from the UN data repository in csv format before it was read into a pandas dataframe. 
+In my exploratory data analysis, I set the Country column as Index, checked the .shape() and .info() 
+and .describe() of the dataset, and also confirmed there were no null values.
 
+### Dataset with Country column set as Index
+![image](https://github.com/Nwabuwa-ce/myportfolio/assets/99978799/5840e9c8-45d4-4410-a495-f092fda1d419)
+
+You can see from the pie chart below, that the Asian continent is by far the largest immigrant group to Canada 
+in that time period accounting for over 50% of all immigrants while Europe comes in second with 22%.
+
+### Immigration to Canada by continent
+![image](https://github.com/Nwabuwa-ce/myportfolio/assets/99978799/3cbc0617-4c7d-47c6-b0fc-a988f6370050)
+
+In the Area plot below you can see the top 5 immigrant nations to Canada within the given time frame 
+namely, India, China, UK, Philippines and Pakistan. 
+
+### Immigration trend of top 5 countries (1980-2013)
+![image](https://github.com/Nwabuwa-ce/myportfolio/assets/99978799/e5e579a6-ddf2-477e-866f-355077020a57)
+
+Lastly, you see the bar chart below of Nigerian immigrants to Canada within the given time period,
+and how the numbers have spiked in the last few years of the time period.
+
+### Nigerian immigrants to Canada (1980-2013)
+![image](https://github.com/Nwabuwa-ce/myportfolio/assets/99978799/093e9d36-4ef3-447b-80d7-bb4ce1bf2a0f)
+
+
+The immigration data to Canada within the years 1980 - 2013 shows that most countries had an upward trend in
+immigrant numbers, except for a few countries in Oceania where the trend did not apply.
 
 
 ### Appreciations
