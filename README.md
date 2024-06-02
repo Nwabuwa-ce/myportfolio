@@ -70,12 +70,13 @@ and how the numbers have spiked in the last few years of the time period.
 ### Nigerian immigrants to Canada (1980-2013)
 ![image](https://github.com/Nwabuwa-ce/myportfolio/assets/99978799/66cc00bf-5cd4-4479-b2dd-addac1af6384)
 
+<a href ="https://github.com/Nwabuwa-ce/Canada-Immigration/blob/main/Canada%20Immigration.ipynb">View Project on GitHub</a>
 
 The immigration data to Canada within the years 1980 - 2013 shows that most countries had an upward trend in
 immigrant numbers, except for a few countries in Oceania where the trend did not apply.
 
 
-### Appreciations
+### Appreciation
 
 Thank you for looking through my simple page! I hope to keep learning and upskilling,
 and updating my projects on this platform, as I complete them. 
